@@ -1,0 +1,19 @@
+{
+  "name": "express",
+  "version": "1.0.0",
+  "description": "",
+  "license": "ISC",
+  "author": "Nitin Chauhan",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev":"nodemon index.js"
+  },
+  "dependencies": {
+    "express": "^5.3.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.14"
+  }
+}
